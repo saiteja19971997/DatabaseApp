@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "669348088385",
+    "firebase_url": "https://onlinedatabase-3125b.firebaseio.com",
+    "project_id": "onlinedatabase-3125b",
+    "storage_bucket": "onlinedatabase-3125b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669348088385:android:a0e1ef139a5b680d",
+        "android_client_info": {
+          "package_name": "com.example.mouna.databaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669348088385-49ntnb0uhofdss291g891vqnjfs0fpk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mouna.databaseapp",
+            "certificate_hash": "f310f0bd56b12b3847c1fc555337d5ab8892adc0"
+          }
+        },
+        {
+          "client_id": "669348088385-vn3ofvdk4072qhnafi7cl88v32qmt9le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBEIIja8qomMZ3Rb9iF_wkmfdBPFnPQkQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669348088385-vn3ofvdk4072qhnafi7cl88v32qmt9le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
